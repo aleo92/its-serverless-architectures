@@ -1,3 +1,3 @@
 # ITS Serverless Architetures Course
-This is a repository for the course
+Cinefacts" "Nuova app per scoprire curiosità sul cinema"
 
